@@ -13,7 +13,7 @@ export default () => (
       }}>
       Info
     </NavLink>
-    <Logo to="/">Bright Cosmetics</Logo>
+    <Logo to="/">I Love Lamp</Logo>
     <ShopkitCart>{props => <Cart {...props} />}</ShopkitCart>
   </Wrapper>
 )
