@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Line 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Showcase-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shopping-cart" transform="translate(-481.000000, -250.000000)" fill="#8C8C8C" fill-rule="nonzero">
+            <g id="wrapper" transform="translate(122.000000, 0.000000)">
+                <g id="item" transform="translate(32.000000, 216.000000)">
+                    <g id="quantity" transform="translate(294.000000, 19.000000)">
+                        <polygon id="Line-2" points="40 14.9393398 41.0606602 16 37 20.0606602 32.9393398 16 34 14.9393398 37 17.9393398"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
