@@ -1,0 +1,18 @@
+{
+  "name": "Moltin React Microsite",
+  "description": "React microsite powered by Moltin Shopkit",
+  "keywords": ["moltin", "react", "ecommerce", "shopkit", "spa"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/mars/create-react-app-buildpack"
+    }
+  ],
+  "success_url": "/",
+  "env": {
+    "REACT_APP_MOLTIN_CLIENT_ID": {
+      "description":
+        "You'll find your client_id on the Moltin Dashboard homepage.",
+      "value": "j6hSilXRQfxKohTndUuVrErLcSJWP15P347L6Im0M4"
+    }
+  }
+}
