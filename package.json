@@ -1,8 +1,10 @@
 {
   "name": "moltin-react-microsite",
   "private": true,
+  "homepage": "https://moltin-examples.github.io/react-microsite",
   "dependencies": {
     "@moltin/react-shopkit": "^1.0.0",
+    "gh-pages": "^1.2.0",
     "nuka-carousel": "^4.2.4",
     "react": "^16.4.1",
     "react-debounce-input": "^3.2.0",
@@ -14,6 +16,8 @@
     "styled-components": "^3.3.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "now-start": "serve -s ./build",
     "build": "react-scripts build",
