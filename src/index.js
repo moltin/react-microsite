@@ -6,7 +6,7 @@ import { Shopkit as ShopkitProvider } from '@moltin/react-shopkit'
 import App from './components/App'
 
 const {
-  REACT_APP_MOLTIN_CLIENT_ID = 'j6hSilXRQfxKohTndUuVrErLcSJWP15P347L6Im0M4'
+  REACT_APP_MOLTIN_CLIENT_ID = 'EdP3Gi1agyUF3yFS7Ngm8iyodLgbSR3wY4ceoJl0d2'
 } = process.env
 
 const target = document.querySelector('#root')

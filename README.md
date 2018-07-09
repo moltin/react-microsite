@@ -1,6 +1,6 @@
 # React Microsite
 
-> 🛍 Moltin powered microsite built with [Create React App](https://github.com/facebook/create-react-app)
+> 🛍 Moltin powered microsite built with [Create React App](https://github.com/facebook/create-react-app) & [Shopkit](https://github.com/moltin/shopkit)
 
 ## 🛠 Setup
 
@@ -11,12 +11,12 @@ You can follow the instructions below to get the project running locally.
 ```bash
 git clone https://github.com/moltin-examples/react-microsite.git
 cd react-microsite
+yarn # or npm install
 ```
 
 Once you've an account, create a `.env.local` file and add your own `REACT_APP_MOLTIN_CLIENT_ID`.
 
 ```bash
-yarn # or npm install
 yarn start # or npm start
 ```
 
